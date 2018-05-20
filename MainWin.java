@@ -4,7 +4,7 @@ public class MainWin {
 
 	public static void main(String[] args) {
 	new MyWin();
-	//version 3.0
+	//version 4.0
 
 	}
 
